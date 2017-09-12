@@ -1,0 +1,12 @@
+#sandcastle-showing {
+  display: none;
+}
+
+.click {
+  cursor: pointer;
+  color: blue
+}
+
+.click:hover {
+  text-decoration: underline;
+}
